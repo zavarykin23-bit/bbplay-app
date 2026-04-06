@@ -82,37 +82,6 @@ bb_soft/
 
 ---
 
-## 🚀 Быстрый старт (5 минут)
-
-### 1️⃣ Установи Cursor IDE
-```bash
-# Скачай с https://www.cursor.sh/
-# Установи на свою платформу (Windows, Mac, Linux)
-```
-
-### 2️⃣ Создай Flutter проект
-```bash
-flutter create bbplay --org com.blackbears
-cd bbplay
-```
-
-### 3️⃣ Открой проект в Cursor
-```bash
-cursor .
-```
-
-### 4️⃣ Используй готовые промпты
-Скопируй текст из `prompts.md` (Промпт 1) в Cursor Compose и жди генерирования кода
-
-### 5️⃣ Запусти на Web
-```bash
-flutter run -d chrome
-```
-
-**Готово! Дальше следуй `QUICK_START.md`**
-
----
-
 ## 📊 Техстек
 
 | Компонент | Технология | Версия | Назначение |
